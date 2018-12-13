@@ -1,0 +1,34 @@
+table{
+    margin: 25px auto;
+    display: table;
+}
+.black{
+    background-color: #000;
+}
+.white{
+    background-color: #fff;
+}
+.yellow{
+    background-color:#FFFF00;
+}
+.red{
+    background-color: #FF0000;
+}
+.blue{
+    background-color: #0000FF;
+}
+.green{
+    background-color: #008000;
+}
+.deepskyblue{
+    background-color:#00BFFF;
+}
+.dimgray{
+    background-color: #696969;
+}
+.orange{
+    background-color: #FFA500;
+}
+.indigo{
+    background-color: #4B0082;
+}
